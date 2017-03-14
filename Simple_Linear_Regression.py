@@ -3,6 +3,7 @@
 #############################################################################################################################
 
 #Simple Linear Regression is applied to Swedish Insurance Dataset
+#x values are total number of claims and y values are total payment of claims in thousands
 
 from math import sqrt
 import csv
